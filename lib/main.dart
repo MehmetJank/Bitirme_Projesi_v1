@@ -167,6 +167,7 @@ class _MyHomePageState extends State<MyHomePage> {
                               ),
                             ),
                           ),
+                          //add "watchlater" button with selected indicator
                         ],
                       ),
                       SizedBox(
